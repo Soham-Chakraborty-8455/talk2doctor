@@ -1,4 +1,4 @@
-<h1 align="center"> MedAssist</h1> 
+<h1 align="center"> Talk2Doctor</h1> 
 <p align="center">
 <img src="https://res.cloudinary.com/dyyxa2hdx/image/upload/v1680447043/MedAssist_1_tst6y8.png"  width=200 height=200>
 </p>
@@ -6,12 +6,12 @@
 <table>
 <tr>
 <td>
-Your personalized medical assistant powered by OpenAi's GPT-3 model
+Say "hello" to your personal medical genius - our AI-powered chatbot is here to revolutionize your healthcare experience!
 </td>
 </tr>
 </table>
 
-## 🤷🏻‍♀️ Why MedAssist?
+## 🤷🏻‍♀️ Why Talk2Doctor?
 1. Provides a chatbot feature that answers your health-related questions.
 2. Supports multiple user profiles for families and caregivers to manage the health information of their loved ones.
 3. No need to wait any longer to book an appointment with a doctor for consulting about health issues.
@@ -19,8 +19,12 @@ Your personalized medical assistant powered by OpenAi's GPT-3 model
 
 ## 💻 Tech Stack :
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50 height=50/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width=50 height=50/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width=50 height=50/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=50 height=50/> 
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
 ## 🪄 UI Designs:
