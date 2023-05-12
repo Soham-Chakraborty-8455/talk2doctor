@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>MedAssist</title>
-    <link rel="icon" href="../static/MedAssist-Logo.png" >
+    <title>Talk2Doctor</title>
+    <link rel="icon" href="../static/Talk2Doctor-Logo.png" >
     <link rel="stylesheet" type="text/css" href="../static/style.css">
 </head>
 <style>
@@ -20,32 +20,32 @@ header h2  {
 </style>
 <body>
   <header>
-    <img src="../static/MedAssist-Logo.png" alt="MedAssist Logo">
+    <img src="../static/Talk2Doctor-Logo.png" alt="Talk2Doctor Logo">
     <h1>
-      <span>Med</span><span>Assist</span>
+      <span>Talk2</span><span>Doctor</span>
     </h1>
     <h2>
         Medical Q&A Assistant
     </h2>
     <h3>
-        Do you have concerns about your health? MedAssist will respond using 
+        Do you have concerns about your health? Talk2Doctor will respond using 
         257k doctor-patient dialogue knowledge base and OpenAI's GPT-3 model.
     </h3>
 </header>
     <form method="POST">
         <input type="text" name="text" placeholder="Enter your question...">
-        <button type="submit" name="submit">Ask MedAssist</button>
+        <button type="submit" name="submit">Ask Talk2Doctor</button>
     </form>
     {% if answer %}
         <p> 
             Q : {{ text }} 
             <br>
             <br>
-            MedAssist : {{ answer }}
+            Talk2Doctor : {{ answer }}
         </p>
     {% endif %}
     <p>
-      MedAssist is working towards making everyone, everywhere healthier by offering services that connect and make health information meaningful.
+      Talk2Doctor is working towards making everyone, everywhere healthier by offering services that connect and make health information meaningful.
       We want to provide people with the information they need to make health-related decisions.</a>
         <br>
         <br>
