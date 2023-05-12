@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MedAssist</title>
+    <link rel="icon" href="../static/MedAssist-Logo.png" >
+    <link rel="stylesheet" type="text/css" href="../static/style.css">
+</head>
+<style>
+  header h1 span:first-child {
+  color: #5ba2f4;
+}
+
+header h1 span:last-child {
+  color: #30b83d;
+}
+
+header h2  {
+  color: #5ba2f4;
+}
+</style>
+<body>
+  <header>
+    <img src="../static/MedAssist-Logo.png" alt="MedAssist Logo">
+    <h1>
+      <span>Med</span><span>Assist</span>
+    </h1>
+    <h2>
+        Medical Q&A Assistant
+    </h2>
+    <h3>
+        Do you have concerns about your health? MedAssist will respond using 
+        257k doctor-patient dialogue knowledge base and OpenAI's GPT-3 model.
+    </h3>
+</header>
+    <form method="POST">
+        <input type="text" name="text" placeholder="Enter your question...">
+        <button type="submit" name="submit">Ask MedAssist</button>
+    </form>
+    {% if answer %}
+        <p> 
+            Q : {{ text }} 
+            <br>
+            <br>
+            MedAssist : {{ answer }}
+        </p>
+    {% endif %}
+    <p>
+      MedAssist is working towards making everyone, everywhere healthier by offering services that connect and make health information meaningful.
+      We want to provide people with the information they need to make health-related decisions.</a>
+        <br>
+        <br>
+    </p>
+    <footer>
+      Designed and Developed by Soham Chakraborty &copy; 2023
+  </footer>
+
+</body>
+</html>
