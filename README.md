@@ -1,6 +1,6 @@
 <h1 align="center"> Talk2Doctor</h1> 
 <p align="center">
-<img src="https://res.cloudinary.com/dyyxa2hdx/image/upload/v1680447043/MedAssist_1_tst6y8.png"  width=200 height=200>
+<img src="https://res.cloudinary.com/dyyxa2hdx/image/upload/v1684071179/Screenshot_2023-05-13_013351_qnuzq7.png"  width=200 height=200>
 </p>
 <h2 align="center"> Medical Q&A Assistant</h2>
 <table>
@@ -28,16 +28,16 @@ Say "hello" to your personal medical genius - our AI-powered chatbot is here to 
 
 
 ## 🪄 UI Designs:
-<img src="https://res.cloudinary.com/dyyxa2hdx/image/upload/v1680447043/MedAssist_zhgtjh.png"  width=500 height=290>
+<img src="https://res.cloudinary.com/dyyxa2hdx/image/upload/v1684071224/Screenshot_2023-05-14_183638_irx1vi.png"  width=500 height=290>
 
-<img src="https://res.cloudinary.com/dyyxa2hdx/image/upload/v1680447043/Pic-1_fkfl5b.png"  width=500 height=290>
+<img src="https://res.cloudinary.com/dyyxa2hdx/image/upload/v1684071261/Screenshot_2023-05-14_185442_qt69jm.png"  width=500 height=290>
 
-<img src="https://res.cloudinary.com/dyyxa2hdx/image/upload/v1680448177/Pic-2_dhmluz.png"  width=500 height=290>
 
           
 
 ## 📌 Links :
-<b> Vercel:</b> https://med-assist.vercel.app/
+<b> Go-Daddy Domain:</b> https://www.talk2dr.com
+<b> Microsoft Cloud Deployed </b>
 
 ## ⭐ Future Improvements :
 - Adding Authentication System to store user data.
