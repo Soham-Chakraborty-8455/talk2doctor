@@ -12,14 +12,14 @@ def home():
         text = request.form.get('text')
         prompt = f"Patient: {text}\nDoctor:"
         response = openai.Completion.create(
-            model="text-davinci-003",
-            prompt=prompt,
-            temperature=0.7,
-            max_tokens=512,
-            top_p=1,
-            frequency_penalty=0.0,
-            presence_penalty=0.0,
-            stop=["\n"]
+            model= "text-davinci-003",
+            prompt= prompt,
+            temperature= 0.7,
+            max_tokens= 512,
+            top_p= 1,
+            frequency_penalty= 0.0,
+            presence_penalty= 0.0,
+            stop= ["\n"]
         )
         answer = response.choices[0].text.strip()
 
